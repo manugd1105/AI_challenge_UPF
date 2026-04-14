@@ -1,2 +1,2 @@
-# IA_challenge_UPF
-Proyect about IA-generated audio files classificaion (IA generated vs human)
+# Reto Inteligencia Artificial - MUDAB_3(2026) UPF-BSM
+Hecho por: Manuel González, Iker Lleida, Santiago de León
